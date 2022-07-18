@@ -1,3 +1,0 @@
-# pablorinaldidemo
-
-es una demo
